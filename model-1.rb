@@ -10,3 +10,5 @@ is_cute = true
 likes_hiking = false
 #variables that are arrays
 toys= ['pig','bone','egg']
+#variables that are hashes
+dog_color = {'henry' => 'red'}
