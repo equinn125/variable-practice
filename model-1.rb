@@ -8,3 +8,5 @@ weight = 25
 #variables that are booleans
 is_cute = true
 likes_hiking = false
+#variables that are arrays
+toys= ['pig','bone','egg']
